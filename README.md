@@ -1,12 +1,9 @@
 # 🎓 InternHub – Internship Management Platform
 
-InternHub is a role-based web application that connects students seeking internships with companies offering them. The platform allows students to browse and apply for internship opportunities, while companies can post listings and manage applicants — all through a clean and scalable user interface.
+InternHub is a simple, role-based web app that connects students looking for internships with companies offering them. Students can explore available positions, apply directly, and track their application status. Companies can post internships, manage listings, and review applications.
 
-This project is built to demonstrate:
-- Clear coding practices and structure
-- Effective use of role-based access control (RBAC)
-- A fully Dockerized deployment setup
+The focus is on clean UI, smooth user experience, and clear separation between student and company access.
 
-🎯 **Key Roles**
-- 👨‍🎓 Students: Browse, apply, and track internship applications
-- 🏢 Companies: Post internships and review applicants
+👤 **Roles**
+- Students: Browse, apply, and track internships
+- Companies: Post internships and manage applicants
