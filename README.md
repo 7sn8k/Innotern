@@ -160,10 +160,8 @@ InternHub was developed as a collaborative project. Here are the team members wh
 
 | Name             | Role                 |
 |------------------|----------------------|
-| [Your Name]      | Full-Stack Developer |
-| [Member 2 Name]  | Frontend Developer   |
-| [Member 3 Name]  | Backend Developer    |
-| [Member 4 Name]  | DevOps & Testing     |
+| Hasan Alharbi  | Frontend Developer   |
+| Saud Alhathlool  | Backend Developer    |
 
 > 🛑 **Note**: This project is currently not open to external contributions.
 
