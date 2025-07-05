@@ -119,7 +119,7 @@ Here's a preview of key features across both student and company perspectives:
 - **Account Created Confirmation**  
   ![AccountCreated](screenshots/AccountCreated.png)
 
-- **Logout Button Example**  
+- **Logoup page Example**  
   ![Logout](screenshots/Logup.png)
 
 ---
