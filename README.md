@@ -153,7 +153,6 @@ Here's a preview of key features across both student and company perspectives:
 
 ---
 
-> All screenshot files should go inside `/screenshots/` or its subfolders.
 
 ## 🤝 Team & Contributions
 
