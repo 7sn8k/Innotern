@@ -104,48 +104,54 @@ InternHub is built using a modern, containerized full-stack setup:
   - [`7sn8k/innotern-frontend`](https://hub.docker.com/r/7sn8k/innotern-frontend)
   - [`7sn8k/api-django`](https://hub.docker.com/r/7sn8k/api-django)
   - [`7sn8k/minio`](https://hub.docker.com/r/7sn8k/minio)
-
+  - 
 ## 📸 Screenshots
 
-Here’s a quick look at some key parts of InternHub in action:
+Here's a preview of key features across both student and company perspectives:
 
-### 🏠 Student Dashboard  
-*Browse internships, view listings, and track application status.*
+---
 
-![Student Dashboard](screenshots/student-dashboard.png)
+### 🔐 Sign In & Account Creation
 
-### 📋 Internship Listing  
-*Detailed view of a specific internship with option to apply.*
+- **Signin Page**  
+  ![Signin](screenshots/Signin.png)
 
-![Internship Listing](screenshots/internship-listing.png)
+- **Account Created Confirmation**  
+  ![AccountCreated](screenshots/AccountCreated.png)
 
-### 📄 Application Form  
-*Resume and cover letter upload with confirmation feedback.*
+- **Logout Button Example**  
+  ![Logout](screenshots/Logup.png)
 
-![Application Form](screenshots/application-form.png)
+---
 
-### 🏢 Company Dashboard  
-*Overview of posted internships and applicant summaries.*
+### 🎓 Student View
 
-![Company Dashboard](screenshots/company-dashboard.png)
+- **Internship Listings Page**  
+  ![InternshipsList](screenshots/InternshipsList.png)
 
-### 🧾 Applicant Viewer  
-*Review student submissions and update application status.*
+- **Internship Application Form**  
+  ![InternshipApplication](screenshots/InternshipApplication.png)
 
-![Applicant Viewer](screenshots/applicant-viewer.png)
+- **Student Applications Dashboard**  
+  ![StudentApplicationsPage](screenshots/StudentApplicationsPage.png)
 
-### ☁️ MinIO File Console  
-*S3-style file browser for resumes and cover letters.*
+---
 
-![MinIO Console](screenshots/minio-console.png)
+### 🏢 Company View
 
-### 🖼 Additional Images
+- **Company Dashboard Page**  
+  ![CompanyPage](screenshots/CompanyPage.png)
 
-To share extra UI shots, development previews, or miscellaneous views, add them to:
+- **Submitted Applications per Internship**  
+  ![InternshipApplications](screenshots/InternshipApplications.png)
 
-```bash
-/screenshots/misc/
-```
+- **Edit / Delete Internship UI**  
+  ![EditDelete](screenshots/Edit-Delete-Internship.png)
+
+- **Confirmation Dialog when deleting**  
+  ![Confirmation](screenshots/ConfermationDialogue.png)
+
+---
 
 > All screenshot files should go inside `/screenshots/` or its subfolders.
 
