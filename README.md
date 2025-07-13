@@ -163,8 +163,6 @@ InternHub was developed as a collaborative project. Here are the team members wh
 | Hasan Alharbi  | Frontend Developer   |
 | Saud Alhathlool  | Backend Developer    |
 
-> 🛑 **Note**: This project is currently not open to external contributions.
-
 ## 📝 License
 
 This project does not yet have an open-source license.  
